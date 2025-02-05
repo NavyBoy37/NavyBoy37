@@ -1,4 +1,6 @@
-### Hi there 👋
+### Little bird, big aspirations
+## Current Work: The-Valley-Trading
+# A homely traveling merchant game.  My first solo foray into video game development.
 
 <!--
 **NavyBoy37/NavyBoy37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
